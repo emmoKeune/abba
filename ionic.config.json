@@ -1,0 +1,7 @@
+{
+  "name": "poc-bio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
